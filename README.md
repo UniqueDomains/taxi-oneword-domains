@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .taxi one-word domains from
 
 **Public extract:** 9,372 rows · **Live catalog:** 9,373 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/taxi`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | creator.taxi    | available | $10.99    | $84.99        | 70             | 45     | 7      | name.com         |
 | domain.taxi     | resell    | —         | —             | 80             | 64     | 6      | NameCheap, Inc.  |
 | sapphire.taxi   | premium   | —         | —             | 92             | 98     | 8      | —                |
-| forge.taxi      | available | $10.99    | $84.99        | 62             | 45     | 5      | name.com         |
+| mix.taxi        | available | $10.99    | $84.99        | 66             | 45     | 3      | name.com         |
 | home.taxi       | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.  |
 | cover.taxi      | premium   | —         | —             | 80             | 98     | 5      | —                |
-| mix.taxi        | available | $10.99    | $84.99        | 66             | 44     | 3      | name.com         |
+| forge.taxi      | available | $10.99    | $84.99        | 62             | 45     | 5      | name.com         |
 | free.taxi       | resell    | —         | —             | 88             | 59     | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
