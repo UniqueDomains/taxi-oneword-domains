@@ -1,22 +1,22 @@
-# Available .TAXI One-Word Domains (9,372)
+# Available .TAXI One-Word Domains (11,925)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C374%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C372%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C925%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .taxi one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .taxi one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,925 domains** on the canonical page below.
 
-**Public extract:** 9,374 rows · **Live catalog:** 9,372 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,925 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/taxi`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TAXI one-word domain 
 
 ### Files
 
-- `taxi.csv` — public CSV extract (9,374 rows)
-- `taxi.json` — public JSON extract (9,374 rows)
+- `taxi.csv` — public CSV extract (1,000 rows)
+- `taxi.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| gas.taxi        | available | $69.98    | —             | 72             | 99     | 3      | namecheap                                                 |
-| adult.taxi      | resell    | $10.99    | $84.99        | 110            | 30     | 5      | GoDaddy.com, LLC                                          |
-| silver.taxi     | premium   | $260      | $260          | 56             | 36     | 6      | namecheap                                                 |
-| true.taxi       | available | $10.99    | $84.99        | 86             | 52     | 4      | name.com                                                  |
-| easy.taxi       | resell    | —         | —             | 128            | 68     | 4      | Name.com, Inc.                                            |
-| affordable.taxi | premium   | $123.75   | $123.75       | 70             | 22     | 10     | name.com                                                  |
-| only.taxi       | available | $10.99    | $84.99        | 110            | 46     | 4      | name.com                                                  |
-| now.taxi        | resell    | —         | —             | 78             | 66     | 3      | Automattic Inc.                                           |
-| blue.taxi       | premium   | —         | —             | 92             | 99     | 4      | —                                                         |
-| genius.taxi     | available | $10.99    | $84.99        | 98             | 45     | 6      | name.com                                                  |
-| news.taxi       | resell    | —         | —             | 100            | 64     | 4      | GoDaddy.com, LLC                                          |
-| audible.taxi    | premium   | —         | —             | 112            | 98     | 7      | —                                                         |
-| creator.taxi    | available | $10.99    | $84.99        | 70             | 45     | 7      | name.com                                                  |
-| domain.taxi     | resell    | —         | —             | 80             | 64     | 6      | NameCheap, Inc.                                           |
-| sapphire.taxi   | premium   | —         | —             | 92             | 98     | 8      | —                                                         |
-| mix.taxi        | available | $10.99    | $84.99        | 66             | 45     | 3      | name.com                                                  |
-| home.taxi       | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.                                           |
-| cover.taxi      | premium   | —         | —             | 80             | 98     | 5      | —                                                         |
-| pop.taxi        | available | $10.99    | $84.99        | 82             | 44     | 3      | name.com                                                  |
-| cloud.taxi      | resell    | —         | —             | 70             | 59     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Ryan.taxi         | available | $69.98    | —             | 60             | 44     | 4      | namecheap                                                 |
+| cars.taxi         | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.                                           |
+| shortcuts.taxi    | available | $10.99    | —             | 48             | 41     | 10     | name.com                                                  |
+| Women.taxi        | resell    | —         | —             | 77             | 29     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| WiFi.taxi         | available | $69.98    | —             | 83             | 37     | 5      | namecheap                                                 |
+| neuroscience.taxi | available | $10.99    | —             | 80             | 37     | 12     | name.com                                                  |
+| events.taxi       | available | $10.99    | —             | 68             | 37     | 6      | name.com                                                  |
+| homes.taxi        | available | $10.99    | —             | 86             | 34     | 5      | name.com                                                  |
+| payments.taxi     | available | $10.99    | —             | 58             | 33     | 8      | name.com                                                  |
+| teams.taxi        | available | $10.99    | —             | 62             | 32     | 5      | name.com                                                  |
+| partners.taxi     | available | $10.99    | —             | 61             | 32     | 8      | name.com                                                  |
+| trends.taxi       | available | $10.99    | —             | 60             | 32     | 6      | name.com                                                  |
+| maps.taxi         | available | $10.99    | —             | 56             | 31     | 4      | name.com                                                  |
+| inspiration.taxi  | available | $10.99    | —             | 88             | 30     | 11     | name.com                                                  |
+| spaces.taxi       | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
+| videos.taxi       | available | $10.99    | —             | 52             | 30     | 6      | name.com                                                  |
+| Jim.taxi          | available | $69.98    | —             | 78             | 28     | 3      | namecheap                                                 |
+| dogs.taxi         | available | $10.99    | —             | 76             | 28     | 4      | name.com                                                  |
+| commonground.taxi | available | $10.99    | —             | 74             | 28     | 13     | name.com                                                  |
+| forms.taxi        | available | $10.99    | —             | 54             | 28     | 5      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,374-row public sample | 9,372 live domains                               |
+| 1,000-row public sample | 11,925 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
