@@ -78,12 +78,12 @@ print(df.head())
 | leaveon.taxi      | available | $10.99    | —             | 80             | 1      | 8      | name.com                                                  |
 | Ryan.taxi         | available | $69.98    | —             | 60             | 44     | 4      | namecheap                                                 |
 | cars.taxi         | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.                                           |
+| rideshare.taxi    | premium   | —         | —             | 80             | 15     | 9      | —                                                         |
 | shortcuts.taxi    | available | $10.99    | —             | 48             | 41     | 10     | name.com                                                  |
 | Women.taxi        | resell    | —         | —             | 77             | 29     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | neuroscience.taxi | available | $10.99    | —             | 80             | 37     | 12     | name.com                                                  |
 | events.taxi       | available | $10.99    | —             | 68             | 37     | 6      | name.com                                                  |
 | payments.taxi     | available | $10.99    | —             | 58             | 33     | 8      | name.com                                                  |
-| teams.taxi        | available | $10.99    | —             | 62             | 32     | 5      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

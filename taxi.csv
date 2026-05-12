@@ -943,6 +943,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5060a901-ea83-431f-8dbd-f0d28a523598,behaviours.taxi,available,10.99,,54,3,10,name.com,,
 506366c1-9391-465a-a805-c96c03197401,fasttank.taxi,available,10.99,,50,0,9,name.com,,
 507e4bbd-1847-4a02-8da2-6f2ec52590dc,counterterrorism.taxi,available,10.99,,52,3,17,name.com,,
+50924a97-d52f-47b5-b791-44d35bae46df,rideshare.taxi,premium,,,80,15,9,,,
 50cd4159-139c-477d-b655-aa2b85fd2912,explained.taxi,available,10.99,,50,10,9,name.com,,
 50def760-1983-4186-a48b-7326493f4137,makeuseof.taxi,available,10.99,,58,2,11,name.com,,
 514a87a7-5839-4832-9a16-fe8c430de492,overstatement.taxi,available,10.99,,54,2,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55e65c85-7f42-4467-9776-5dd01324e3ed,bearings.taxi,available,10.99,,50,11,8,name.com,,
 55e7dd01-e816-4f2f-ba58-af12b1f2d65f,leavemealone.taxi,available,10.99,,42,7,14,name.com,,
 56266f4b-2fb0-44ec-ad80-c0d4f8201f7d,deepinthought.taxi,available,10.99,,52,1,15,name.com,,
-56507c45-7dde-43f6-a263-80b7886ebfda,lies.taxi,available,10.99,,60,12,4,name.com,,
