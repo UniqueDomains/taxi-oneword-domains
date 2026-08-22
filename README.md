@@ -1,10 +1,10 @@
-# Available .TAXI One-Word Domains (17,877)
+# Available .TAXI One-Word Domains (18,322)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C877%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C322%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .taxi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,877 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,322 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,877 domains · **Median ask:** $11.12 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 18,322 domains · **Median ask:** $11.06 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/taxi`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| away.taxi     | available | $10.99    | —             | high           | low    | 4      | name.com          |
 | aft.taxi      | available | $8.98     | $69.98        | low            | low    | 3      | namecheap         |
 | bot.taxi      | resell    | —         | —             | high           | medium | 3      | Automattic Inc.   |
 | org.taxi      | premium   | $500      | —             | medium         | medium | 3      | name.com          |
@@ -83,7 +84,6 @@ print(df.head())
 | water.taxi    | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.   |
 | cxx.taxi      | available | $8.98     | $69.98        | low            | low    | 3      | namecheap         |
 | bullet.taxi   | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC      |
-| DJI.taxi      | available | $10.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,877 live domains                        |
+| 1,000-row public sample | 18,322 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
