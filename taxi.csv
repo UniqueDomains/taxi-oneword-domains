@@ -1,14 +1,14 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4921e646-3395-4246-86cd-66e1d9d2b8bb,sulphurous.taxi,available,8.98,69.98,low,low,10,namecheap,,,
-fd6d56c2-7a68-4d44-a934-931d638ed1e0,wizard.taxi,available,10.99,84.99,high,medium,6,name.com,,,
+fd6d56c2-7a68-4d44-a934-931d638ed1e0,wizard.taxi,available,8.98,69.98,medium,low,6,namecheap,,,21/09/2026 18:11
 271564e4-7588-44c1-bac2-4b997a389187,releasecandidate.taxi,available,10.99,,high,low,17,name.com,,,
 57035f04-1f7f-4adf-bcfc-855abb25f8b0,eolian.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 051e465c-058c-4cf0-87b7-678ec96a7aa6,vertical.taxi,available,10.99,,high,low,8,name.com,,,
-9ff70cf2-c972-4db6-9334-1d58684af843,aromatic.taxi,available,10.99,,high,low,8,name.com,,,
-04ad0db5-9168-4a33-a1ba-b8190b5c1709,fearless.taxi,available,10.99,,high,low,8,name.com,,,
+9ff70cf2-c972-4db6-9334-1d58684af843,aromatic.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 08:02
+04ad0db5-9168-4a33-a1ba-b8190b5c1709,fearless.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 12:19
 96f6c485-0077-4830-af39-ccf08d409dd0,incline.taxi,available,10.99,,high,low,7,name.com,,,
 fb6fff13-5ac2-40a6-9a2b-4518d4af7178,cheesefood.taxi,available,10.99,,medium,low,11,name.com,,,
-ff699f42-1d76-423b-9bdb-a42f7c3f5b07,late.taxi,available,10.99,,high,low,4,name.com,,,
+ff699f42-1d76-423b-9bdb-a42f7c3f5b07,late.taxi,available,8.98,69.98,medium,low,4,namecheap,,,22/09/2026 19:16
 fe842926-f41d-4def-b2af-52f0865ff53b,shocking.taxi,available,10.99,84.99,medium,low,8,name.com,,,
 54478288-8af0-422f-9036-36406a08f3bf,moderately.taxi,available,10.99,,medium,low,10,name.com,,,
 900a10cd-f298-4420-a715-15270597ee7f,backup.taxi,available,10.99,62.99,medium,low,6,namesilo,,,20/09/2026 03:14
@@ -31,14 +31,14 @@ afddd812-c23b-4dd0-86a9-1bbdf036384f,arco.taxi,available,8.98,69.98,low,low,4,na
 5e82f22c-7c81-4f57-9814-ad2e3ffd5751,inexpert.taxi,available,8.98,69.98,low,low,8,namecheap,,,
 3f393670-b1d0-48a1-9f0c-adb3d77809cb,shin.taxi,available,10.99,,medium,low,4,name.com,,,
 ba3219ab-763b-4b94-8cc5-07eac05c136d,pretending.taxi,available,10.99,,medium,low,10,name.com,,,
-ac318b3b-3190-45ba-8892-a617d1dd5d6c,backwards.taxi,available,10.99,,high,low,9,name.com,,,
+ac318b3b-3190-45ba-8892-a617d1dd5d6c,backwards.taxi,available,8.98,69.98,low,low,9,namecheap,,,22/09/2026 15:55
 12a5173a-9344-4263-ab3c-553a0ad3d33a,dji.taxi,available,10.99,,high,low,3,name.com,,,
 27739c68-5683-4405-b036-a87ceaf58dab,rolling.taxi,available,8.98,69.98,low,low,7,namecheap,,,19/09/2026 06:51
 bb2b2e38-3782-434d-8d2e-03b95f53c5e7,clickbait.taxi,available,10.99,,high,low,9,name.com,,,
 c98e3a45-e41f-492b-bd53-b88389112278,combat.taxi,available,10.99,,high,low,6,name.com,,,
 8be8aa44-4d3f-47a8-9a79-34e082ea2a84,solicit.taxi,available,10.99,,high,low,7,name.com,,,
 9242d3af-2f2c-46eb-b0f8-27f5af170154,prepare.taxi,available,10.99,,high,low,7,name.com,,,
-e1ebc883-c3b6-46a0-bbfd-06056ae9dce4,nought.taxi,available,10.99,84.99,high,low,6,name.com,,,
+e1ebc883-c3b6-46a0-bbfd-06056ae9dce4,nought.taxi,available,10.99,62.99,medium,low,6,namesilo,,,21/09/2026 10:34
 e8ad2d8c-c9fa-45eb-bdcd-38a3fbfe6ad6,adient.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 32ba34f8-b14b-4304-bad5-d686453cd334,spermcell.taxi,available,10.99,,medium,low,10,name.com,,,
 d0cd3d2d-d69d-4fb1-abae-3eb963983c52,bagel.taxi,available,10.99,,high,low,5,name.com,,,
@@ -63,8 +63,8 @@ ca7e8c36-075f-42ba-a977-d15d03f0d55d,evenchance.taxi,available,10.99,,high,low,1
 5c129db1-743f-4709-a49b-ac56ac58ba2f,supersize.taxi,available,10.99,,high,low,9,name.com,,,
 d343065c-6c68-4be1-aa5f-d78a5cbeb5f8,aft.taxi,available,8.98,69.98,low,low,3,namecheap,,,
 5f92dec5-5c07-49c0-a4fc-4a94b9c4e865,beaded.taxi,available,8.98,69.98,low,low,6,namecheap,,,09/08/2026 03:18
-f16d090d-c53a-4fed-9450-41ace748b55e,creature.taxi,available,10.99,,medium,low,8,name.com,,,
-befd32d8-8c5d-4357-b15c-c18fd20abc34,avocado.taxi,available,10.99,,high,low,7,name.com,,,
+f16d090d-c53a-4fed-9450-41ace748b55e,creature.taxi,available,10.99,62.99,low,low,8,namesilo,,,22/09/2026 04:42
+befd32d8-8c5d-4357-b15c-c18fd20abc34,avocado.taxi,available,10.99,84.99,medium,low,7,name.com,,,22/09/2026 14:34
 c8dfdbb0-96eb-43eb-aa04-cff75c87e3ad,majestic.taxi,available,10.99,,high,low,8,name.com,,,
 3d3802db-d21f-4306-855b-165ffcc7ba17,attheready.taxi,available,10.99,,high,low,12,name.com,,,
 f3c7ad93-06eb-422e-ae38-7e7e491b8688,andantino.taxi,available,8.98,69.98,low,low,9,namecheap,,,
@@ -79,7 +79,7 @@ e8fa9203-b1f8-485b-890c-4164f96d6cc3,exit.taxi,available,10.99,,high,low,4,name.
 ac0cc53d-5074-49a2-95e2-99c704523ed8,spaceshuttle.taxi,available,10.99,,high,low,13,name.com,,,
 e92c191e-305e-47c9-ae4a-bc65b26f2d62,foul.taxi,available,8.98,69.98,low,low,4,namecheap,,,
 027416e0-10ab-45f5-8fd9-f37122812caa,aspherical.taxi,available,8.98,69.98,low,low,10,namecheap,,,07/08/2026 04:57
-dd2a8411-1d82-45e7-949f-ad80351309c6,affluent.taxi,available,10.99,84.99,high,low,8,name.com,,,
+dd2a8411-1d82-45e7-949f-ad80351309c6,affluent.taxi,available,10.99,62.99,medium,low,8,namesilo,,,21/09/2026 21:54
 e2be9daa-00cc-406d-bc6f-4c53cbc97076,flak.taxi,available,8.98,69.98,low,low,4,namecheap,,,
 3dbf0899-9d18-474a-893d-51fe3631d2d8,mothafucker.taxi,available,10.99,,medium,low,11,name.com,,,
 4e3d6683-9e45-4782-8bdf-1c766fabf59d,letterofrecall.taxi,available,10.99,,medium,low,16,name.com,,,
@@ -108,8 +108,8 @@ ba44038e-62b1-4792-b3e8-fbcf3d94591a,ammoniated.taxi,available,8.98,69.98,low,lo
 7c182966-e49d-4f0a-968c-b73c186c47a3,camper.taxi,available,,,medium,low,6,,,,
 7219e757-0b49-4c7c-967f-36338626bc57,abridged.taxi,available,8.98,69.98,low,low,8,namecheap,,,
 8c0ae1f7-a94a-4433-88b3-5a816158699d,spread.taxi,available,10.99,62.99,medium,low,6,namesilo,,,19/09/2026 12:51
-2be972d2-1032-45fd-af59-4b22ece7104f,educate.taxi,available,10.99,,high,low,7,name.com,,,
-d2004ebf-5ce7-465a-97fa-479b7968ff62,armed.taxi,available,10.99,,high,low,5,name.com,,,
+2be972d2-1032-45fd-af59-4b22ece7104f,educate.taxi,available,10.99,62.99,medium,low,7,namesilo,,,23/09/2026 06:27
+d2004ebf-5ce7-465a-97fa-479b7968ff62,armed.taxi,available,10.99,62.99,low,low,5,namesilo,,,22/09/2026 07:55
 9ca5928b-a7d6-45df-8627-9bbdeaf222ed,leavethedooropen.taxi,available,10.99,,high,low,19,name.com,,,
 085cab66-221b-4894-acdc-f0e1202b3944,burly.taxi,available,8.98,69.98,low,low,5,namecheap,,,09/08/2026 07:54
 077ecae9-15a5-4f22-ad79-01f4ecf8621b,org.taxi,premium,500,,medium,medium,3,name.com,,,
@@ -120,7 +120,7 @@ cee752ff-5c43-4a51-9278-ee93db0bdee6,zesty.taxi,available,8.98,69.98,low,low,5,n
 c5ed8c67-adb4-4055-9451-f1f1a75b2ccd,airport.taxi,available,,,medium,low,7,,,,
 ebe12fee-925a-4085-aa8a-9b1a6a340b14,incentive.taxi,available,10.99,,high,low,9,name.com,,,
 5fe1a2eb-a25d-494d-95d0-2f1de6bb8b98,locally.taxi,available,10.99,,medium,low,7,name.com,,,
-e5201dea-1140-494b-b0d0-acce381cd3fa,medium.taxi,available,10.99,,high,low,6,name.com,,,
+e5201dea-1140-494b-b0d0-acce381cd3fa,medium.taxi,available,8.98,69.98,medium,low,6,namecheap,,,23/09/2026 04:17
 678b2f81-9b3b-4806-8316-c22554215337,prolific.taxi,available,10.99,,high,low,8,name.com,,,
 8b069acc-ec9c-4947-8221-a399cf67a1e4,xxxii.taxi,available,8.98,69.98,low,low,5,namecheap,,,
 a61d2eba-b625-4bd7-8fa3-651163d96333,masterofscience.taxi,available,10.99,,medium,low,17,name.com,,,
@@ -140,12 +140,12 @@ d51585ff-21cd-4d4e-a7df-eb63248dfcde,currently.taxi,available,10.99,,medium,low,
 81d3656b-9286-47f8-8f54-cf8991c24bc8,savingsaccount.taxi,available,10.99,,high,low,15,name.com,,,
 c79f4cf0-f92e-4b1a-a481-732eac2aa928,unkeyed.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 13:50
 b75a5b82-55d3-4273-9c3e-ed212daf170f,buffet.taxi,available,10.99,62.99,medium,low,6,namesilo,,,19/09/2026 17:05
-5bcb8db0-86d7-483c-9219-8979ecc44806,nuts.taxi,available,10.99,,medium,low,4,name.com,,,
+5bcb8db0-86d7-483c-9219-8979ecc44806,nuts.taxi,available,10.99,62.99,medium,low,4,namesilo,,,22/09/2026 08:20
 bb0d7b83-aeeb-4992-b1a6-49885cb1527c,haveonemoretime.taxi,available,10.99,,medium,low,18,name.com,,,
 4849cdbb-0e8c-4a61-b3ef-39c39574accf,jason.taxi,available,10.99,,medium,low,5,name.com,,,
 98a9f4cb-1fe8-4a3d-9c61-1d0cfd92b53f,believable.taxi,available,8.98,69.98,low,low,10,namecheap,,,09/08/2026 13:01
-735fb35c-82ff-4cdb-bd70-bdd555656e39,absolutely.taxi,available,10.99,,high,low,10,name.com,,,
-72e15f1b-eb71-468b-b6a1-a16ef2f7eede,severe.taxi,available,10.99,,medium,low,6,name.com,,,
+735fb35c-82ff-4cdb-bd70-bdd555656e39,absolutely.taxi,available,10.99,,medium,low,10,name.com,,,
+72e15f1b-eb71-468b-b6a1-a16ef2f7eede,severe.taxi,available,10.99,62.99,low,low,6,namesilo,,,22/09/2026 13:18
 eae82927-dec9-4e3f-ba39-e26d5863cc00,royalblue.taxi,available,10.99,,high,low,10,name.com,,,
 04b7186d-4432-493f-9eb8-35c8084bd106,barring.taxi,available,10.99,,medium,low,7,name.com,,,
 17d4b3a8-db75-4032-9aab-510df90c9a2f,boattrip.taxi,available,10.99,,high,low,9,name.com,,,
@@ -169,7 +169,7 @@ f521f711-306d-4c25-b979-27271e297057,nettled.taxi,available,8.98,69.98,low,low,7
 41a060ad-30ef-489f-a3d4-048faad91541,americas.taxi,available,10.99,,medium,low,8,name.com,,,
 01642e8a-f704-4765-a6c6-cf58a47e6e78,autosomal.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 21:02
 53659c35-6867-4077-90ed-be0d18487f34,mothafucka.taxi,available,10.99,,medium,low,10,name.com,,,
-c9d0307d-d4b8-4ea4-a710-9ba2ba13abb0,tempting.taxi,available,10.99,84.99,high,low,8,name.com,,,
+c9d0307d-d4b8-4ea4-a710-9ba2ba13abb0,tempting.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 01:44
 1d22c4a6-26dd-4cd7-bcfc-b6dc59fec52b,bakinghot.taxi,available,8.98,69.98,low,low,10,namecheap,,,08/08/2026 08:52
 947e27bc-01df-408a-a4cb-ced918e46e1f,distract.taxi,available,10.99,,high,low,8,name.com,,,
 f98a2ef5-a393-423a-b0d3-86963eeec156,publicly.taxi,available,10.99,,medium,low,8,name.com,,,
@@ -178,9 +178,9 @@ cb447146-bc26-4d0a-aa18-880a625baec6,modest.taxi,available,10.99,,high,low,6,nam
 15874a02-bd15-4fe0-a6e4-56dee8a5ba62,oriented.taxi,available,10.99,,medium,low,8,name.com,,,
 64b395a1-246d-4a5e-8f53-1cc49e9d3894,macedonia.taxi,available,10.99,,high,medium,9,name.com,,,
 03069b44-5487-4482-af23-342e7ac8278a,airpressure.taxi,available,10.99,,medium,low,12,name.com,,,
-06e2b163-2d18-4a5e-af3c-394e8f8266e2,candy.taxi,available,10.99,,high,low,5,name.com,,,
+06e2b163-2d18-4a5e-af3c-394e8f8266e2,candy.taxi,available,10.99,62.99,medium,low,5,namesilo,,,23/09/2026 05:38
 c52b9698-37a3-446d-a003-958b3f80b85b,acellular.taxi,available,8.98,69.98,low,low,9,namecheap,,,
-9dfadbf5-5d1c-40b2-93cd-58e3ed06e7d8,wink.taxi,available,10.99,,high,low,4,name.com,,,
+9dfadbf5-5d1c-40b2-93cd-58e3ed06e7d8,wink.taxi,available,10.99,62.99,medium,low,4,namesilo,,,22/09/2026 22:05
 b005bb66-42d1-4e54-adec-192462906c2e,autumnal.taxi,available,8.98,69.98,low,low,8,namecheap,,,07/08/2026 21:23
 55ba62f9-ab42-4a9f-af1f-7e1ab8f28b12,basidial.taxi,available,8.98,69.98,low,low,8,namecheap,,,08/08/2026 22:06
 f09ef0e8-e8ab-455f-96ef-ea0c91dfabc6,cherryontop.taxi,available,10.99,,high,low,13,name.com,,,
@@ -190,11 +190,11 @@ d1a63eae-1885-4752-9100-9ad818b2935b,pronounce.taxi,available,10.99,,high,low,9,
 f48974ff-9e25-4df2-90fe-873dd1835ed8,kidney.taxi,available,10.99,,medium,low,6,name.com,,,
 d3eddfc5-fae5-4cdd-aeb7-2cc6920cf075,compact.taxi,available,10.99,84.99,high,low,7,name.com,,,
 fc2f0eb0-0808-43d3-b4e4-b165c89f93b8,sore.taxi,available,8.98,69.98,low,low,4,namecheap,,,
-1b3cec4e-af64-4096-8385-2e2e69a6f532,balsamic.taxi,available,10.99,,high,low,8,name.com,,,
+1b3cec4e-af64-4096-8385-2e2e69a6f532,balsamic.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 16:34
 e2ab322d-5508-46f2-98d7-1a86f0bd9ad1,headtohead.taxi,available,10.99,,medium,low,12,name.com,,,
 c4f64dc5-5f1d-4474-84d3-7b0d94e8a10d,anybudy.taxi,available,10.99,,medium,low,7,name.com,,,
 39f6c469-34c1-4d37-b516-d31de9ddfe3b,specially.taxi,available,10.99,,medium,low,9,name.com,,,
-9185a1fb-a748-443b-b44b-91420c94b44f,fullscale.taxi,available,10.99,84.99,high,low,10,name.com,,,
+9185a1fb-a748-443b-b44b-91420c94b44f,fullscale.taxi,available,10.99,62.99,medium,low,10,namesilo,,,22/09/2026 00:50
 cf33c094-b2b8-46f2-83c2-16af8338cc66,dorsal.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 8d3b2fdb-de3d-434e-bf60-cf9a8e082385,ideal.taxi,available,10.99,,high,low,5,name.com,,,
 ddcbabba-3ef0-4dfb-9483-8552490d72e0,crab.taxi,available,10.99,,high,low,4,name.com,,,
@@ -204,21 +204,20 @@ ddcbabba-3ef0-4dfb-9483-8552490d72e0,crab.taxi,available,10.99,,high,low,4,name.
 58e760ce-d093-4a17-b36c-71cf6fba93e5,oldschool.taxi,available,10.99,,high,low,10,name.com,,,
 e8bfa87c-0be5-4fb3-bea4-5402a47e889a,clay.taxi,available,10.99,,high,low,4,name.com,,,
 a5b2091d-7967-4333-ab81-dc293fe563ea,parallel.taxi,available,8.98,69.98,medium,low,8,namecheap,,,
-671d4356-fab9-45b5-bef3-fae76c55dfad,apt.taxi,available,10.99,,high,low,3,name.com,,,
-d2653a3c-8504-4c2c-9415-5d4314a0057c,bothered.taxi,available,10.99,,medium,low,8,name.com,,,
+d2653a3c-8504-4c2c-9415-5d4314a0057c,bothered.taxi,available,10.99,62.99,low,low,8,namesilo,,,23/09/2026 01:08
 903833b3-ca00-45f2-9ef6-514762338062,loss.taxi,available,10.99,,medium,low,4,name.com,,,
-c356e128-ca2d-4bfe-a550-5ea4486e749c,adored.taxi,available,10.99,84.99,high,low,6,name.com,,,
+c356e128-ca2d-4bfe-a550-5ea4486e749c,adored.taxi,available,8.98,69.98,low,low,6,namecheap,,,21/09/2026 19:35
 6d2552ba-f7ad-42d6-ab15-17f32477ee3f,discount.taxi,premium,118.8,118.8,high,low,8,namesilo,,,
 c356f8a0-24ae-4ca1-9221-993a92ed8d91,anticipated.taxi,available,8.98,69.98,low,low,11,namecheap,,,08/09/2026 14:34
 95f6b482-aaa0-45df-baad-adc3f8cdb3b0,barefaced.taxi,available,8.98,69.98,low,low,9,namecheap,,,08/08/2026 09:20
 f593a565-d1b9-420b-b6b5-db2f4201e505,manmade.taxi,available,10.99,,medium,low,8,name.com,,,
-ba040a30-582b-4924-be9c-91689b532b49,abdominal.taxi,available,10.99,84.99,high,low,9,name.com,,,
+ba040a30-582b-4924-be9c-91689b532b49,abdominal.taxi,available,10.99,62.99,low,low,9,namesilo,,,21/09/2026 13:47
 c4f6288c-601b-4cb7-8929-dc3fb169bbd0,taal.taxi,available,8.98,69.98,low,low,4,namecheap,,,
 b8aea848-63b6-41e9-a574-cef4215c4dd3,sixfeetunder.taxi,available,10.99,,low,low,14,name.com,,,
 147bea2b-3003-475a-8d83-5780bac93893,iseeyou.taxi,available,10.99,,medium,low,9,name.com,,,
 9e04c6a0-8664-4d84-8ea1-bc7466b0cba8,canal.taxi,available,10.99,,medium,low,5,name.com,,,
 c6b588bf-b1de-49c3-8e09-457de8acfb72,collectivenoun.taxi,available,10.99,,high,low,15,name.com,,,
-4e4f435c-aa13-4ddb-a7dd-dbd32050eea5,television.taxi,available,8.98,69.98,medium,low,10,namecheap,,,20/09/2026 02:37
+4e4f435c-aa13-4ddb-a7dd-dbd32050eea5,television.taxi,available,10.99,62.99,medium,low,10,namesilo,,,23/09/2026 06:07
 b27c902c-7932-411a-a958-850aa5fe86fb,incorrect.taxi,available,10.99,,high,low,9,name.com,,,
 cfcb35b8-c615-49b4-82ee-104799c064e0,islands.taxi,available,10.99,,high,low,7,name.com,,,
 4122dfd7-1b5b-4202-8d4c-48952dfe2ef5,fortytwo.taxi,available,8.98,69.98,low,low,9,namecheap,,,
@@ -227,30 +226,30 @@ e4166e96-4d5b-43cf-b280-c6640de3fdca,epidemic.taxi,available,10.99,,high,low,8,n
 18753d54-40f5-48de-a7de-6bd72289eac7,desert.taxi,available,10.99,84.99,high,low,6,name.com,,,
 feb0f3a3-81ca-444d-aef2-2012847ae4af,powerful.taxi,available,10.99,,high,low,8,name.com,,,
 c64727e4-c683-482d-b81c-38dfdaa6466c,division.taxi,available,10.99,,medium,low,8,name.com,,,
-fe928c31-6626-4fe8-9908-9be126bdb36c,artistic.taxi,available,10.99,,high,low,8,name.com,,,
+fe928c31-6626-4fe8-9908-9be126bdb36c,artistic.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 09:09
 8cb426cc-da00-4c73-b53b-b42921ddb743,object.taxi,available,10.99,62.99,medium,low,6,namesilo,,,19/09/2026 05:21
 1eef21c5-c1e9-44f2-a87d-f81809046ee0,corner.taxi,available,10.99,,medium,low,6,name.com,,,
 d846d6bb-55a1-4a8f-af16-c6ef00cff599,turtleneckcollar.taxi,available,10.99,,high,low,17,name.com,,,
 abfd3c96-b728-4482-a885-127df24dfadd,momentum.taxi,available,10.99,,high,medium,8,name.com,,,
 ea0e8b02-c213-479c-9856-31fba04b1bac,squinty.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 03:20
-d0a15d83-eb88-45c2-a320-5bdbe35e88bc,anticancer.taxi,available,10.99,,high,low,10,name.com,,,
+d0a15d83-eb88-45c2-a320-5bdbe35e88bc,anticancer.taxi,available,8.98,69.98,medium,low,10,namecheap,,,22/09/2026 06:38
 365a5f7e-d5fe-42bd-828c-169827096927,clxv.taxi,available,8.98,69.98,low,low,4,namecheap,,,
 06cf80df-0218-4cfa-9c42-b7eb11dfa93d,generalgoods.taxi,available,10.99,,medium,low,13,name.com,,,
 bbf85773-8989-423e-a055-19bd0ba9359b,untrustworthy.taxi,available,10.99,,low,low,13,name.com,,,
 332dae45-8b18-4f25-852f-bceae0c8accc,happy.taxi,premium,500,,high,medium,5,name.com,,,
 34b97d75-dd3b-453f-a9da-101f47232444,seemly.taxi,available,8.98,69.98,low,low,6,namecheap,,,09/08/2026 06:27
-62dd5649-9668-4b83-b86b-77686bbf854d,cream.taxi,available,10.99,62.99,medium,low,5,namesilo,,,19/09/2026 04:58
+62dd5649-9668-4b83-b86b-77686bbf854d,cream.taxi,available,10.99,62.99,medium,low,5,namesilo,,,23/09/2026 06:38
 1f5aabf4-428d-4e71-948a-c4d32b8de783,midspring.taxi,available,10.99,,high,low,10,name.com,,,
 6580aab9-0094-4aea-9c1c-af9954c15976,backpack.taxi,available,10.99,,high,low,8,name.com,,,
 adcd17b7-990a-4ce5-84f4-e5b111cb0e61,carrying.taxi,available,10.99,,high,low,8,name.com,,,
 c5268d01-1153-40e6-97db-82f6b86fdef2,recognizable.taxi,available,10.99,,high,low,12,name.com,,,
 bb340bcd-e2b6-4bc9-8582-eb80c511e2e4,returning.taxi,available,10.99,,high,low,9,name.com,,,
-a60293f5-3629-4b2e-aade-55dfa47af632,romantic.taxi,available,10.99,,high,low,8,name.com,,,
+a60293f5-3629-4b2e-aade-55dfa47af632,romantic.taxi,available,10.99,62.99,medium,low,8,namesilo,,,22/09/2026 03:28
 a6619a5f-5537-4514-a2a5-93c2121905be,technologies.taxi,available,10.99,,low,low,12,name.com,,,
 457169e8-e956-44d3-91bf-06710dfff449,aperiodic.taxi,available,8.98,69.98,low,low,9,namecheap,,,05/08/2026 22:30
 9e24a533-131e-45dd-b1b1-e81659984e6a,greenpark.taxi,available,10.99,,medium,low,10,name.com,,,
 b909d228-42fd-4529-b506-68624e1c607e,stay.taxi,available,10.99,,medium,low,4,name.com,,,
-a67cc185-772d-4294-b58e-1ac4e3b77c2f,proficient.taxi,available,10.99,84.99,high,low,10,name.com,,,
+a67cc185-772d-4294-b58e-1ac4e3b77c2f,proficient.taxi,available,10.99,62.99,medium,low,10,namesilo,,,21/09/2026 17:23
 6d7845ab-43be-47bc-b10f-4b189ef85310,ethnic.taxi,available,10.99,,high,low,6,name.com,,,
 c15fd81a-d5ba-4816-8f0c-6b6c3cb63091,standbehind.taxi,available,10.99,,low,low,12,name.com,,,
 7b96713b-174b-4669-976e-ae55065c057e,auxinic.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 21:34
@@ -259,10 +258,10 @@ d232c711-59f3-4ef5-820c-22de2b5f0a84,stand.taxi,available,10.99,,high,low,5,name
 d1f9fa65-2543-409c-a601-dc73ec6f1878,grimy.taxi,available,8.98,69.98,low,low,5,namecheap,,,09/08/2026 09:25
 a2a13869-be32-45f3-a951-faccc74d379d,bullet.taxi,resell,,,high,low,6,"Sav.com, LLC",01/05/2025 01:24,01/05/2027 01:24,
 f482f78b-edae-4d6a-8649-eede05918982,generalinsurance.taxi,available,10.99,,high,low,17,name.com,,,
-9911f3b4-9f6f-4099-b767-3c8f7c1b4d63,marginal.taxi,available,10.99,,high,low,8,name.com,,,
+9911f3b4-9f6f-4099-b767-3c8f7c1b4d63,marginal.taxi,available,10.99,62.99,low,low,8,namesilo,,,23/09/2026 00:04
 d2172e7c-7e6e-45da-bfc0-3dbb8f0b779b,incommon.taxi,available,10.99,,medium,low,9,name.com,,,
 d0fe22c1-2cfe-440a-aa26-0862e26efe54,channel.taxi,available,10.99,,medium,low,7,name.com,,,
-4b8a104c-2eb3-47b1-8eda-3208786ca472,mass.taxi,available,10.99,84.99,high,low,4,name.com,,,
+4b8a104c-2eb3-47b1-8eda-3208786ca472,mass.taxi,available,10.99,62.99,medium,low,4,namesilo,,,21/09/2026 22:50
 9d9db5cf-ba4c-414c-8efe-81a883447ac3,reported.taxi,available,10.99,,medium,low,8,name.com,,,
 86090f37-b9a3-4c35-8031-81dc24f5fa06,election.taxi,available,10.99,,high,low,8,name.com,,,
 51e8af0b-5870-487c-b6fa-75ca241fea44,lvii.taxi,available,8.98,69.98,low,low,4,namecheap,,,
@@ -272,12 +271,12 @@ d0fe22c1-2cfe-440a-aa26-0862e26efe54,channel.taxi,available,10.99,,medium,low,7,
 fa993c53-a168-46a9-ae68-0c9a87b2a215,visibility.taxi,available,10.99,,high,low,10,name.com,,,
 6cabe34b-9bb9-43ff-89e3-691db045d661,legs.taxi,available,10.99,,high,low,4,name.com,,,
 e39bd058-0a67-4e32-9623-8468d19813b1,temple.taxi,available,,,medium,low,6,,,,
-e20fa321-68ab-4168-a6ca-0f8103be9d69,abovenamed.taxi,available,10.99,,medium,low,11,name.com,,,
+e20fa321-68ab-4168-a6ca-0f8103be9d69,abovenamed.taxi,available,10.99,,low,low,11,name.com,,,
 497a9999-c7f6-4f04-b174-629a3df365e8,concise.taxi,available,10.99,84.99,high,low,7,name.com,,,
 bce9d4c4-8e92-4578-ace9-a0845efe4c28,rare.taxi,available,10.99,,high,medium,4,name.com,,,
 ec0274e5-eda4-426e-b197-0d8d772cbe8e,ted.taxi,available,10.99,,high,low,3,name.com,,,
 a595afe7-93e6-44e2-9606-90fa251cf657,flaring.taxi,available,8.98,69.98,low,low,7,namecheap,,,
-ca191401-f4c0-4cdb-ae82-f0c6ad6149cd,academic.taxi,available,10.99,84.99,high,low,8,name.com,,,
+ca191401-f4c0-4cdb-ae82-f0c6ad6149cd,academic.taxi,available,10.99,62.99,medium,low,8,namesilo,,,21/09/2026 15:21
 dd386812-1632-49e4-bc51-7f8040946f41,oar.taxi,available,10.99,,medium,low,3,name.com,,,
 f61bdcb2-f297-4f11-8efd-4f8644a1c9ed,perforation.taxi,available,10.99,,low,low,11,name.com,,,
 8cad1592-a422-4aa2-98fd-3cee55e56780,delayed.taxi,available,10.99,84.99,medium,low,7,name.com,,,
@@ -287,12 +286,12 @@ edc4cc92-a374-4996-96a5-f50ef035b739,alias.taxi,available,10.99,,high,low,5,name
 965ed2e9-82cf-437d-abd0-481844ae0103,noway.taxi,available,10.99,,medium,low,6,name.com,,,
 654166f9-9408-4d3e-b1ce-4f284057ca6d,higher.taxi,available,10.99,,high,low,6,name.com,,,
 ff927fd7-2dbb-4484-99ed-8cc771d18936,accretive.taxi,available,8.98,69.98,low,low,9,namecheap,,,
-c82493a9-ca66-487e-b5a7-86286f1208c1,allergic.taxi,available,10.99,84.99,high,low,8,name.com,,,
+c82493a9-ca66-487e-b5a7-86286f1208c1,allergic.taxi,available,8.98,69.98,medium,low,8,namecheap,,,22/09/2026 01:25
 a3e1d225-4faf-4544-985b-148d7699a235,haste.taxi,available,10.99,,medium,low,5,name.com,,,
 a569876c-b025-4d73-af35-c4e30ded3618,phoebe.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 cf4debb3-f479-4816-a3c6-138ac1cb0732,quickness.taxi,available,10.99,,high,low,9,name.com,,,
 11e9f3b9-9e5b-4c6b-af8b-220c1969bac7,lisbon.taxi,available,10.99,,high,low,6,name.com,,,
-42b9e7f2-85eb-45de-b245-4beae9956692,gold.taxi,resell,,,high,medium,4,"Sav.com, LLC - 26",19/12/2025 15:15,19/12/2026 15:15,
+42b9e7f2-85eb-45de-b245-4beae9956692,gold.taxi,resell,,,low,low,4,"Sav.com, LLC - 26",19/12/2025 15:15,19/12/2026 15:15,22/09/2026 03:56
 9094c2ee-c935-404c-acd9-8cf8061dba91,bantering.taxi,available,8.98,69.98,low,low,9,namecheap,,,08/08/2026 14:34
 8a34d185-59ad-4f74-b64d-73d435a4f3e6,avuncular.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 23:51
 a651b391-2c09-40be-bf6f-f3c07356f98a,curse.taxi,available,10.99,84.99,high,low,5,name.com,,,
@@ -307,7 +306,7 @@ c07418db-8cae-493c-a97b-add6990b1a33,aperient.taxi,available,8.98,69.98,low,low,
 d082c549-6049-4a3e-b0aa-ff4214fe396d,aligned.taxi,available,8.98,69.98,low,low,7,namecheap,,,
 783684f3-71c9-4f1b-92b2-f844e2366130,lottery.taxi,available,10.99,,high,low,7,name.com,,,
 a05fcd8a-b8d2-4b76-9475-d61450839e73,worldwarii.taxi,available,10.99,,low,low,12,name.com,,,
-9862ad96-59c1-40f2-8299-da41b696fbb2,attended.taxi,available,10.99,,medium,low,8,name.com,,,
+9862ad96-59c1-40f2-8299-da41b696fbb2,attended.taxi,available,10.99,62.99,low,low,8,namesilo,,,22/09/2026 11:17
 ab91695d-976b-477b-b5a6-ec88d43b5610,land.taxi,available,10.99,,medium,low,4,name.com,,,
 1cee86f7-ad70-4efc-bec3-4506e0e93845,givein.taxi,available,10.99,,high,low,7,name.com,,,
 ff411eab-fa35-4bb8-b739-d6e6419a8a77,maximum.taxi,available,10.99,,high,low,7,name.com,,,
@@ -326,7 +325,7 @@ b7833d6c-741e-4cdd-b7f1-9dc2bb677416,quatern.taxi,available,8.98,69.98,low,low,7
 5f0eb974-dab5-4013-9e80-cd425413c12f,fascinate.taxi,available,10.99,,high,low,9,name.com,,,
 63dd981f-a960-4cbd-af33-421d8679fd46,internetlike.taxi,available,10.99,,medium,low,12,name.com,,,
 b07363a5-1f70-4188-89c2-60b607669c7e,ivy.taxi,available,10.99,,high,low,3,name.com,,,
-c7b842ba-6a76-41a2-a15d-dbec7411a257,amazing.taxi,available,10.99,,high,low,7,name.com,,,
+c7b842ba-6a76-41a2-a15d-dbec7411a257,amazing.taxi,available,8.98,69.98,medium,low,7,namecheap,,,22/09/2026 03:51
 4440fa80-39db-4197-8b1b-8641e49b3ff1,packed.taxi,available,10.99,,medium,low,6,name.com,,,
 aab2b528-a1b8-421a-b1e8-ce0372e8678a,wax.taxi,available,10.99,,medium,low,3,name.com,,,
 0f903f08-7c8d-4212-a3d3-bb932ebe5003,grabby.taxi,available,8.98,69.98,low,low,6,namecheap,,,07/08/2026 21:58
@@ -343,11 +342,11 @@ df75ad6f-ed01-4879-9840-230c8aeb3253,pencil.taxi,available,10.99,,high,low,6,nam
 e43f275f-18db-4ec9-8574-8dc143765f2c,arteriolar.taxi,available,8.98,69.98,low,low,10,namecheap,,,06/08/2026 22:34
 2d7c4fed-846b-47d3-ae65-ee98e45fe543,ageold.taxi,available,8.98,69.98,low,low,7,namecheap,,,
 bf538c03-09b0-414b-a9f6-5438cfe65e2f,assumed.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 07:45
-8d7fb737-ec38-4f4d-a452-00cc563bf9b1,abomb.taxi,available,10.99,,high,low,6,name.com,,,
+8d7fb737-ec38-4f4d-a452-00cc563bf9b1,abomb.taxi,available,10.99,,medium,low,6,name.com,,,
 5ff42019-1f45-4222-b60c-6ada15ead7fe,burred.taxi,available,8.98,69.98,low,low,6,namecheap,,,08/08/2026 17:23
 42b484bb-9e2a-4072-b8dd-7da5c9e9c529,swollen.taxi,available,10.99,84.99,medium,low,7,name.com,,,
 91d3bacf-d184-4849-bc0d-5b6f81d587c2,cone.taxi,available,10.99,,medium,low,4,name.com,,,
-91371391-b129-45bc-a3f8-23395d1dbc9c,accounted.taxi,available,10.99,,medium,low,9,name.com,,,
+91371391-b129-45bc-a3f8-23395d1dbc9c,accounted.taxi,available,10.99,,low,low,9,name.com,,,
 8098a76a-561c-481f-8513-57ed8deefd61,asyoulike.taxi,available,10.99,,high,low,11,name.com,,,
 cdb65885-45e0-4a79-882e-04a1396153ab,uphill.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 f33cc386-b4ca-4f19-99ad-6f0a09f66d80,airheaded.taxi,available,8.98,69.98,low,low,9,namecheap,,,
@@ -367,7 +366,7 @@ bb79d756-ddb9-44e0-9430-4893d7c4d9b8,airdry.taxi,available,8.98,69.98,low,low,7,
 608b64b8-1ee4-4d21-816a-37e90f35cb0d,centre.taxi,available,10.99,,medium,low,6,name.com,,,
 21dabacc-54b5-42b8-93c5-0e0ea8894465,easter.taxi,available,10.99,84.99,high,low,6,name.com,,,
 ccc7de8f-241d-49ee-854a-12294eb38a05,twist.taxi,available,10.99,,high,low,5,name.com,,,
-ff56ca89-5ba7-450a-a5d4-4351e90a1411,away.taxi,available,10.99,,high,low,4,name.com,,,
+ff56ca89-5ba7-450a-a5d4-4351e90a1411,away.taxi,available,8.98,69.98,medium,low,4,namecheap,,,22/09/2026 14:52
 eaac0ea9-1f9e-487a-839b-37b24597c9dc,lyric.taxi,available,10.99,,medium,low,5,name.com,,,
 e293225d-f6d7-40ef-95d9-206b70f90ac2,unmannerly.taxi,available,8.98,69.98,low,low,10,namecheap,,,08/08/2026 07:32
 0c0f7561-7974-4c54-a61f-189f023af744,baconexplosion.taxi,available,10.99,,high,low,15,name.com,,,
@@ -376,7 +375,7 @@ e293225d-f6d7-40ef-95d9-206b70f90ac2,unmannerly.taxi,available,8.98,69.98,low,lo
 8e2e6e8b-8b35-488f-9631-876cd4ba2f0a,clearance.taxi,available,8.98,69.98,medium,low,9,namecheap,,,08/09/2026 08:11
 ada8c0df-fd38-4875-bb1f-fb1d24db4d75,asyndetic.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 10:34
 f4ce369a-4ef3-489b-a5b8-63642a742185,attempted.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 15:12
-3f55a3df-ceaa-4943-9406-8a2422bc0dbb,bacterial.taxi,available,10.99,,medium,low,9,name.com,,,
+3f55a3df-ceaa-4943-9406-8a2422bc0dbb,bacterial.taxi,available,10.99,62.99,low,low,9,namesilo,,,22/09/2026 16:00
 ef716345-e90b-4589-a7e2-77caf33c6fa6,bendystraw.taxi,available,10.99,,high,low,11,name.com,,,
 da93e6fc-2272-4172-9665-f93376e34907,decent.taxi,available,8.98,69.98,low,low,6,namecheap,,,09/08/2026 06:17
 da62b0f8-0671-436e-9300-7d22561cc05d,ghostlike.taxi,available,8.98,69.98,low,low,9,namecheap,,,06/08/2026 05:23
@@ -388,14 +387,14 @@ ef93aaf6-7cbe-4b81-8ac5-a5f14a713cde,muckabout.taxi,available,10.99,,low,low,10,
 90bc01fc-3210-4e2c-b6a5-300b8c0dd788,cherryonthecake.taxi,available,10.99,,medium,low,18,name.com,,,
 39e40976-7148-4b2c-a8c6-eb055bb93538,sombudy.taxi,available,10.99,,medium,low,7,name.com,,,
 c8a0c166-b6e3-42f5-95ba-de2fc3a0ac7f,energizing.taxi,available,8.98,69.98,medium,low,10,namecheap,,,
-36f822fc-5f73-4c44-ab93-6b180e45ab36,completely.taxi,available,10.99,84.99,medium,low,10,name.com,,,
+36f822fc-5f73-4c44-ab93-6b180e45ab36,completely.taxi,available,8.98,69.98,low,low,10,namecheap,,,22/09/2026 00:16
 ccc17f29-8984-4643-be28-7a9a95620b78,assonant.taxi,available,8.98,69.98,low,low,8,namecheap,,,07/08/2026 07:20
 2c1cb7b8-280b-4a5a-85b4-9f46bf1fb81b,overhang.taxi,available,8.98,69.98,low,low,8,namecheap,,,09/08/2026 08:28
 a4e78257-7c9f-4e31-8b5d-5f4852879746,result.taxi,available,10.99,,high,low,6,name.com,,,
 38e46f79-61e5-4afd-bfd2-9120beb80216,addresses.taxi,available,10.99,,medium,low,9,name.com,,,
 9f7d61f0-d454-4ccf-b7d8-ab7de7137f9f,bought.taxi,available,10.99,,high,low,6,name.com,,,
 c78d18b3-d3c4-4f70-a307-c41c53e99201,seventieth.taxi,available,8.98,69.98,low,low,10,namecheap,,,
-132b2ad6-e905-4336-be12-57f4a78e168f,adorable.taxi,available,10.99,84.99,high,low,8,name.com,,,
+132b2ad6-e905-4336-be12-57f4a78e168f,adorable.taxi,available,8.98,69.98,medium,low,8,namecheap,,,21/09/2026 19:18
 dde7e8a9-30f0-4255-95d5-2d0f0b4d31a5,tie.taxi,available,10.99,,high,low,3,name.com,,,
 f0c497f6-4b33-46e4-9f30-1b83fc109a16,childlabour.taxi,available,10.99,,medium,low,12,name.com,,,
 303cc762-ce36-449e-b827-46ab77e7a728,blacktea.taxi,available,10.99,,high,low,9,name.com,,,
@@ -408,7 +407,7 @@ b5bc0d71-b0c9-4139-ac1e-45df9450f752,waterless.taxi,available,8.98,69.98,low,low
 0ade4313-0ea9-41ce-8ce4-a37da0d0a6ea,receptionchair.taxi,available,10.99,,medium,low,15,name.com,,,
 77725906-b42d-42b6-871d-b92dab28aec6,setanexample.taxi,available,10.99,,medium,low,14,name.com,,,
 4c6cf9b3-49f9-44a2-968d-50e6932a1a07,atthebestoftimes.taxi,available,10.99,,high,low,20,name.com,,,
-80418d5a-8af8-421f-85ed-c4b882a3d1d0,colored.taxi,available,10.99,,high,low,7,name.com,,,
+80418d5a-8af8-421f-85ed-c4b882a3d1d0,colored.taxi,available,8.98,69.98,low,low,7,namecheap,,,22/09/2026 20:23
 9f261404-dda3-4e23-a5c0-545da90c3e39,aborigine.taxi,available,8.98,69.98,low,low,9,namecheap,,,
 eccae08f-f6f1-4ec9-ac67-cc32e09db608,gowithoutsaying.taxi,available,10.99,,high,low,17,name.com,,,
 20562a70-fefd-4949-897c-328c66ac00c8,expand.taxi,available,10.99,84.99,high,low,6,name.com,,,
@@ -417,8 +416,8 @@ c1e9d7b5-6ec4-4433-a19c-92c977bc8124,furious.taxi,available,8.98,69.98,low,low,7
 df7be0cc-216a-44af-8ff4-47af50e8706e,grocery.taxi,available,8.98,69.98,medium,low,7,namecheap,,,08/09/2026 13:48
 8cf009f4-918c-498c-a889-315f87a910f4,comerainorshine.taxi,available,10.99,,medium,low,18,name.com,,,
 3af6a83c-0467-4b14-b4d5-aa34d3e19213,torn.taxi,available,10.99,,medium,low,4,name.com,,,
-fb43d21e-0358-41ca-b738-86f0fab9edee,blind.taxi,available,10.99,,medium,low,5,name.com,,,
-8a102a7b-9a51-491c-91d6-c15c6ad131c6,axial.taxi,available,10.99,,high,low,5,name.com,,,
+fb43d21e-0358-41ca-b738-86f0fab9edee,blind.taxi,available,10.99,62.99,low,low,5,namesilo,,,22/09/2026 21:56
+8a102a7b-9a51-491c-91d6-c15c6ad131c6,axial.taxi,available,10.99,62.99,low,low,5,namesilo,,,22/09/2026 15:33
 c2101727-db00-4e76-b487-a240bd148c71,asymptotic.taxi,available,8.98,69.98,low,low,10,namecheap,,,07/08/2026 10:30
 d273aa29-94b4-47b9-9c48-14310f877408,backwardslash.taxi,available,10.99,,medium,low,14,name.com,,,
 e66bdec1-5b42-44c8-bd44-e7f5391cf7b3,coast.taxi,available,10.99,,high,low,5,name.com,,,
@@ -440,7 +439,7 @@ e9e3abfb-5f1a-46c4-8f85-2b2ae6d0aa0e,traveled.taxi,available,10.99,,medium,low,8
 83da195f-da92-43a6-98fc-a9e905d50bbc,tilldate.taxi,available,10.99,,low,low,9,name.com,,,
 0e7a9cd3-dc89-4cc7-92e9-01ff01e6d5ba,lava.taxi,available,10.99,,medium,low,4,name.com,,,
 f87af000-af8a-4bc3-a9ad-f9665e450949,readmylips.taxi,available,10.99,,low,low,12,name.com,,,
-45e01e77-5f21-42f9-b7cc-7fb63bff886f,twentytwo.taxi,available,10.99,84.99,high,low,10,name.com,,,
+45e01e77-5f21-42f9-b7cc-7fb63bff886f,twentytwo.taxi,available,10.99,62.99,medium,low,10,namesilo,,,21/09/2026 12:36
 bd18edfa-bb3f-4a1d-b618-091724a97071,substantial.taxi,available,10.99,,high,low,11,name.com,,,
 7b8acd26-4d4f-4ee7-8273-8cfd54c5d0a1,recommend.taxi,available,10.99,,high,low,9,name.com,,,
 08a23e02-fad9-4d96-901b-22fbe8d5fc6a,shrub.taxi,available,10.99,,medium,low,5,name.com,,,
@@ -481,13 +480,13 @@ f08f9051-33b4-4e29-8801-523f25b5dcf4,numbers.taxi,available,10.99,,high,low,7,na
 8c0aed18-bbeb-44de-8c9a-49e7101b4612,buster.taxi,available,10.99,,medium,low,6,name.com,,,
 1a249388-915b-47ac-a464-f3ad285016ee,importance.taxi,available,10.99,,high,low,10,name.com,,,
 a12b5a68-b457-44fc-86aa-1cd3301a975b,receipt.taxi,available,10.99,,high,low,7,name.com,,,
-79326a06-b115-4c86-a09c-f33000b74695,base.taxi,available,10.99,,medium,medium,4,name.com,,,
+79326a06-b115-4c86-a09c-f33000b74695,base.taxi,available,10.99,62.99,low,low,4,namesilo,,,22/09/2026 17:31
 0f34d4df-0151-498a-958c-7721dfa21d50,treeofsorrow.taxi,available,10.99,,low,low,14,name.com,,,
 ac21b4c1-f214-4527-9803-71a7346abf05,departed.taxi,available,8.98,69.98,low,low,8,namecheap,,,07/08/2026 11:31
 a58df814-933a-4957-a9f8-8bba1e4d5e02,crossroads.taxi,available,10.99,,medium,low,10,name.com,,,
 559a547c-514a-4c3d-8d16-515a3006614f,belemnitic.taxi,available,8.98,69.98,low,low,10,namecheap,,,09/08/2026 12:47
-894de69c-2c9d-44fc-9f17-0e8c0b5baea0,acknowledge.taxi,available,10.99,,high,low,11,name.com,,,
-c181709c-be6a-4aa1-971c-25c1ec405dc9,whole.taxi,available,10.99,84.99,high,low,5,name.com,,,
+894de69c-2c9d-44fc-9f17-0e8c0b5baea0,acknowledge.taxi,available,10.99,,medium,low,11,name.com,,,
+c181709c-be6a-4aa1-971c-25c1ec405dc9,whole.taxi,available,10.99,62.99,medium,low,5,namesilo,,,22/09/2026 00:29
 d0d07816-fbb4-41c8-89bd-567e3d725d91,glossary.taxi,available,10.99,,high,low,8,name.com,,,
 aeb2362e-9444-48cc-8947-d2bfc447b3d1,helmethair.taxi,available,10.99,,medium,low,11,name.com,,,
 9abc9a89-856a-4168-b01b-a46aa94babb2,aphasic.taxi,available,8.98,69.98,low,low,7,namecheap,,,05/08/2026 23:07
@@ -507,7 +506,7 @@ da1a1b35-62e5-4636-8f28-60a14c57e501,highway.taxi,available,10.99,,medium,low,7,
 113035ed-8d30-4492-b092-a6d09a54b61f,moon.taxi,resell,,,high,medium,4,Dynadot Inc,23/03/2025 16:10,23/03/2027 16:10,
 b1cce2c0-6502-497c-ba24-28a7dca2659b,crying.taxi,available,10.99,84.99,high,low,6,name.com,,,
 a7c17742-e969-4a3e-a3bb-d77350f4f9c5,strawberryred.taxi,available,10.99,,low,low,14,name.com,,,
-5d1c2dc6-2c28-4717-9af3-6d91a92916ac,antitumor.taxi,available,10.99,,high,low,9,name.com,,,
+5d1c2dc6-2c28-4717-9af3-6d91a92916ac,antitumor.taxi,available,10.99,62.99,medium,low,9,namesilo,,,22/09/2026 06:40
 bf2f6c69-127b-4f62-a7c1-0b65f496df2b,maven.taxi,available,8.98,69.98,medium,low,5,namecheap,,,
 b433158a-18df-45cd-bd6a-5448f74b0eae,feelings.taxi,available,10.99,,high,low,8,name.com,,,
 ff5c1fc1-d849-4910-8b11-72384be2d2a2,challenging.taxi,available,10.99,,high,low,11,name.com,,,
@@ -515,7 +514,7 @@ b84cff33-0f1c-4163-b06a-1550125e5021,trolling.taxi,available,10.99,,medium,low,8
 763e9bbc-2cbb-4bf9-8047-a76c91a573ae,worldexpo.taxi,available,10.99,,low,low,10,name.com,,,
 92de9cf2-ec1b-479b-bd3a-a34f17d0cded,winterblues.taxi,available,10.99,,low,low,12,name.com,,,
 4632951a-9a08-4a43-bbb1-cd7ffad556a7,humanbeing.taxi,available,10.99,,high,low,11,name.com,,,
-98dce73f-d3b1-4521-825f-a9973b36f3c8,allied.taxi,available,10.99,84.99,high,low,6,name.com,,,
+98dce73f-d3b1-4521-825f-a9973b36f3c8,allied.taxi,available,10.99,62.99,medium,low,6,namesilo,,,22/09/2026 01:28
 1d0f248c-b76e-4562-ab1f-2354f90d2af3,chain.taxi,resell,,,medium,low,5,"GoDaddy.com, LLC",20/08/2022 05:52,20/08/2027 05:52,21/09/2026 03:59
 dcf20161-b0c0-495f-9af0-6a32405482f8,aeriform.taxi,available,8.98,69.98,low,low,8,namecheap,,,
 7140c7c0-d2aa-49bd-8cd1-002e8f189730,also.taxi,available,10.99,,high,low,4,name.com,,,
@@ -544,9 +543,9 @@ eb08b478-fe4c-4744-88d7-fca7fb203538,cricket.taxi,available,10.99,,high,low,7,na
 67ee1c33-2641-4ea0-b476-6b77a2f387f6,uppercase.taxi,available,10.99,,high,low,9,name.com,,,
 d0aea096-b392-4866-a749-a5b40f65b9d2,banked.taxi,available,10.99,,medium,low,6,name.com,,,
 8ddfc7ac-d541-4c23-9912-21fc88795c30,thirtieth.taxi,available,8.98,69.98,low,low,9,namecheap,,,
-e68e2d98-a3a8-41b2-a02f-325c0026a2ee,abundant.taxi,available,10.99,84.99,high,low,8,name.com,,,
+e68e2d98-a3a8-41b2-a02f-325c0026a2ee,abundant.taxi,available,10.99,62.99,medium,low,8,namesilo,,,21/09/2026 15:18
 a84c126c-c75c-4791-bcb5-52e604f2799f,syndrome.taxi,available,10.99,,medium,low,8,name.com,,,
-7546eed8-9921-4677-8e64-205e845c914f,set.taxi,available,10.99,,high,low,3,name.com,,,
+7546eed8-9921-4677-8e64-205e845c914f,set.taxi,available,8.98,69.98,medium,low,3,namecheap,,,22/09/2026 19:35
 e2c14f9f-be75-43ac-8cdc-26e488b59c92,allantoid.taxi,available,8.98,69.98,low,low,9,namecheap,,,
 3bb6565b-598f-4a8d-8811-ce4c7f493e3d,aurous.taxi,available,8.98,69.98,low,low,6,namecheap,,,07/08/2026 17:31
 671ecfe3-f784-45e4-8673-e75c3a4484f1,asofnow.taxi,available,10.99,,medium,low,9,name.com,,,
@@ -560,10 +559,10 @@ bd1e7283-a666-423e-b18c-2aa18e068cb5,appear.taxi,available,10.99,,high,low,6,nam
 5e1f5d25-399f-47f4-ba4e-c6ca69a15030,systematically.taxi,available,10.99,,medium,low,14,name.com,,,
 b450a937-e685-4469-8ecd-01e798e694cd,achaean.taxi,available,8.98,69.98,low,low,7,namecheap,,,
 7096459d-d9b0-4c50-b321-81ce1b1ef973,beall.taxi,available,10.99,,medium,low,6,name.com,,,
-7623d61a-33b2-4597-8dae-45aa083508fa,passon.taxi,available,10.99,84.99,high,low,7,name.com,,,
+7623d61a-33b2-4597-8dae-45aa083508fa,passon.taxi,available,8.98,69.98,low,low,7,namecheap,,,21/09/2026 20:29
 b6e2cf4b-bedb-4118-8fb0-71c03f27da29,bigben.taxi,available,10.99,,high,low,7,name.com,,,
 719ad365-51f2-41cb-acc9-174284243230,ccc.taxi,available,8.98,69.98,low,medium,3,namecheap,,,
-8bde658f-39f7-41f3-b204-65cad21b6a54,extra.taxi,available,10.99,84.99,high,low,5,name.com,,,
+8bde658f-39f7-41f3-b204-65cad21b6a54,extra.taxi,available,10.99,62.99,medium,low,5,namesilo,,,21/09/2026 17:12
 8ca45773-c125-4472-b707-06f6d22d58ae,treelike.taxi,available,8.98,69.98,low,low,8,namecheap,,,06/08/2026 14:01
 042a3c63-52ef-43d8-9de6-66133e3f5779,vivid.taxi,available,10.99,,high,low,5,name.com,,,
 39ca334f-2ea3-4acb-bc74-afb6f35596e6,albitic.taxi,available,8.98,69.98,low,low,7,namecheap,,,
@@ -583,7 +582,7 @@ b3d5096a-c06c-4fb8-9665-1f66da59e2c5,days.taxi,available,10.99,,high,low,4,name.
 e5bc5f1f-e9c1-4590-ad7c-60cd323791ad,motley.taxi,available,8.98,69.98,low,low,6,namecheap,,,07/08/2026 07:29
 ab47ccf4-f748-44e2-8770-1e58f687dbf3,barbecue.taxi,available,10.99,,high,low,8,name.com,,,
 62a65a8c-8190-47e6-aea9-5b1382db713e,melt.taxi,available,10.99,,high,low,4,name.com,,,
-b1a100ed-b294-4203-9ef3-07ccb893a245,nail.taxi,available,10.99,84.99,medium,low,4,name.com,,,
+b1a100ed-b294-4203-9ef3-07ccb893a245,nail.taxi,available,10.99,62.99,low,low,4,namesilo,,,21/09/2026 16:04
 71d2f099-6dd2-4134-91fa-d27afa83bab4,azonal.taxi,available,8.98,69.98,low,low,6,namecheap,,,08/08/2026 02:27
 745e168a-f79a-4b52-82fe-75e226f8b106,detected.taxi,available,10.99,84.99,medium,low,8,name.com,,,
 85e4759d-3a2c-4493-9286-fdf394294b9f,state.taxi,available,,,high,low,5,,,,
@@ -618,7 +617,7 @@ afd80782-5154-455f-92b5-cdf4dbbade01,altaic.taxi,available,8.98,69.98,low,low,6,
 e27e8115-0a20-4c39-af52-465141a056f1,hence.taxi,available,10.99,,medium,low,5,name.com,,,
 cd0bab2f-3a86-4c41-a4f8-962dfb8cc83d,dye.taxi,available,10.99,,medium,low,3,name.com,,,
 8ce78fc5-021a-4892-a507-c2d3f556316d,hardluck.taxi,available,10.99,,medium,low,9,name.com,,,
-63194d6c-08e1-44c5-9d23-609336fdfc87,decorated.taxi,available,10.99,84.99,medium,low,9,name.com,,,
+63194d6c-08e1-44c5-9d23-609336fdfc87,decorated.taxi,available,10.99,62.99,low,low,9,namesilo,,,21/09/2026 19:45
 ecab1672-9e81-4dbd-a1c1-2a1ff6c24619,europeanhedgehog.taxi,available,10.99,,medium,low,17,name.com,,,
 eb3e5f1a-d813-488d-896e-387c55180b82,superuser.taxi,available,10.99,,high,low,9,name.com,,,
 808878d6-f95c-4458-98bc-0d22b75019c4,aboral.taxi,available,8.98,69.98,low,low,6,namecheap,,,
@@ -628,7 +627,7 @@ eb3e5f1a-d813-488d-896e-387c55180b82,superuser.taxi,available,10.99,,high,low,9,
 0fafd3a3-8ce3-4772-bf5b-5908515f6250,server.taxi,available,10.99,,medium,medium,6,name.com,,,
 82ef97ee-d49e-41f3-9509-a122f4d7e5fb,hightide.taxi,available,10.99,,medium,low,9,name.com,,,
 262cd536-09d0-4146-815a-cc9c5600d665,redplanet.taxi,available,10.99,,medium,low,10,name.com,,,
-9d59b005-57fd-49bd-9099-e69adb4a617a,found.taxi,available,10.99,,high,medium,5,name.com,,,
+9d59b005-57fd-49bd-9099-e69adb4a617a,found.taxi,available,10.99,62.99,low,low,5,namesilo,,,22/09/2026 17:43
 061bd771-9686-46b7-8e56-4f45ba7347df,whereas.taxi,available,10.99,,high,low,7,name.com,,,
 4526682f-190f-4230-b1f3-0ba5c9d7875c,willingness.taxi,available,10.99,,medium,low,11,name.com,,,
 a6d9a34f-fa43-4df9-9ba7-aade68ca4ff2,andromeda.taxi,available,10.99,,high,low,9,name.com,,,
@@ -673,7 +672,7 @@ dcb5b568-6556-4894-a215-3b5b6c975003,person.taxi,available,10.99,,high,low,6,nam
 0fd0b01f-ec29-4565-b00d-8d0c750e6db4,upto.taxi,available,10.99,,medium,low,5,name.com,,,
 a0442d75-cb58-4ace-82cf-d15c17eea301,camera.taxi,available,10.99,,high,low,6,name.com,,,
 4826ab3d-2e03-4689-84e0-dcf5342cdb41,sextet.taxi,available,8.98,69.98,low,low,6,namecheap,,,
-ada62f4b-a009-4151-9b5d-5af25c3610ac,bored.taxi,available,10.99,,medium,low,5,name.com,,,
+ada62f4b-a009-4151-9b5d-5af25c3610ac,bored.taxi,available,10.99,84.99,low,low,5,name.com,,,23/09/2026 00:16
 dc5cfc4e-3223-4a30-a6ed-a5b3654d110f,cotyloidal.taxi,available,8.98,69.98,low,low,10,namecheap,,,
 22ada614-2f34-43dd-899b-bcd5ad3dcc3f,peer.taxi,available,10.99,,high,low,4,name.com,,,
 d9ad516b-d68c-4f4a-b4a7-1c85267dfb6d,monday.taxi,available,10.99,,high,low,6,name.com,,,
@@ -695,7 +694,7 @@ c085881c-8f81-4ea0-bd95-b9afb3459bda,including.taxi,available,10.99,,medium,low,
 b7ee653b-b579-4e88-8338-024df79bd393,mentallyill.taxi,available,10.99,,medium,low,12,name.com,,,
 7aec4ece-cf2b-49a5-99c6-1dce953dc986,tierce.taxi,available,8.98,69.98,low,low,6,namecheap,,,
 ab7d8a5a-2bc7-4dcc-8c67-58239151d546,posterior.taxi,available,8.98,69.98,low,low,9,namecheap,,,09/08/2026 11:12
-162d0f2e-45fd-459c-a84a-cd10789cf98e,medicine.taxi,available,10.99,62.99,medium,low,8,namesilo,,,20/09/2026 02:42
+162d0f2e-45fd-459c-a84a-cd10789cf98e,medicine.taxi,available,10.99,62.99,medium,low,8,namesilo,,,23/09/2026 06:09
 edcda589-538a-42af-a352-34b0190b2043,bothersome.taxi,available,8.98,69.98,low,low,10,namecheap,,,
 af4adc48-7cfe-4dd0-bfd6-362eb5f5d520,whitesmoke.taxi,available,10.99,,low,low,11,name.com,,,
 0a318311-da16-47ba-a577-de32ce135765,consuming.taxi,available,10.99,84.99,high,low,9,name.com,,,
@@ -719,7 +718,7 @@ dc16cd45-1529-4262-99df-0acb11c1171c,vandalism.taxi,available,10.99,,medium,low,
 a79759f8-2684-488a-a495-8f44a16240e9,park.taxi,resell,,,high,low,4,Porkbun LLC,21/10/2025 22:30,21/10/2026 22:30,
 bcdfcea6-1b49-4aca-addb-78673e2faf92,sacrificial.taxi,available,10.99,,low,low,11,name.com,,,
 dd9df21e-b7bf-4d0b-b420-a13ca4fa8950,ache.taxi,available,8.98,69.98,low,low,4,namecheap,,,
-e3a6c316-4119-42c8-ae64-a0bc6f0d452f,acceptable.taxi,available,10.99,84.99,high,low,10,name.com,,,
+e3a6c316-4119-42c8-ae64-a0bc6f0d452f,acceptable.taxi,available,10.99,62.99,medium,low,10,namesilo,,,21/09/2026 15:23
 8696ff81-a868-4486-930a-62c1160978e5,comeupon.taxi,available,10.99,,medium,low,9,name.com,,,
 225bc781-46d4-488e-905c-c07760b8dd8a,despite.taxi,available,10.99,,high,low,7,name.com,,,
 c0efdec4-579d-4a50-9cab-450558373b66,letterart.taxi,available,10.99,,high,low,10,name.com,,,
@@ -789,24 +788,24 @@ d8230c5f-f756-4ee5-aa39-4cb0589222cd,years.taxi,available,10.99,,high,low,5,name
 889ea377-e171-4089-99ed-9e0498d7d610,softwareengineer.taxi,available,10.99,,high,low,17,name.com,,,
 ca6d839d-9ce7-44fe-8a31-de594c33b4fd,alley.taxi,available,10.99,,medium,low,5,name.com,,,
 ff95bc23-5d64-4f49-94aa-49c837ae20c5,artwork.taxi,available,10.99,,high,low,7,name.com,,,
-2146035d-47bc-462d-872f-3446fde56d9b,exemplary.taxi,available,10.99,84.99,high,low,9,name.com,,,
+2146035d-47bc-462d-872f-3446fde56d9b,exemplary.taxi,available,8.98,69.98,medium,low,9,namecheap,,,21/09/2026 18:58
 753fd4df-b1fa-4284-a5dc-e686e97ad280,lowrise.taxi,available,10.99,,high,low,8,name.com,,,
 0c35503d-731d-47bc-bc47-cd11bb7e4da3,apodeictic.taxi,available,8.98,69.98,low,low,10,namecheap,,,06/08/2026 01:36
-513aa627-a38d-4b6a-8e30-4712616ba6a8,blueish.taxi,available,10.99,,high,low,7,name.com,,,
+513aa627-a38d-4b6a-8e30-4712616ba6a8,blueish.taxi,available,10.99,62.99,low,low,7,namesilo,,,22/09/2026 22:51
 f25f59de-3a44-4a46-b2cb-8fdd5d70fd60,painted.taxi,available,10.99,,medium,low,7,name.com,,,
 0522f448-1571-4981-9575-52963416b67b,auctorial.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 16:24
 819823fa-cd31-4ff7-8597-a87ca085bc1f,aversive.taxi,available,8.98,69.98,low,low,8,namecheap,,,07/08/2026 22:40
-cd5bb1e4-5f85-407f-a471-331b827588ee,aujus.taxi,available,10.99,,medium,low,6,name.com,,,
+cd5bb1e4-5f85-407f-a471-331b827588ee,aujus.taxi,available,8.98,69.98,low,low,6,namecheap,,,22/09/2026 11:49
 48931501-0e4c-4913-9471-9606a40005c7,latter.taxi,available,10.99,,high,low,6,name.com,,,
 b499d63e-9457-4097-a7ed-35f81d1e28ca,ascendible.taxi,available,8.98,69.98,low,low,10,namecheap,,,07/08/2026 00:40
 ce1c9f1e-0d87-454d-b689-bd3aa2587d8c,miracle.taxi,available,10.99,,high,low,7,name.com,,,
 430cd07c-4014-4aea-a48e-e1f6e9440d5e,codes.taxi,available,10.99,,medium,low,5,name.com,,,
 3c416108-27fb-4f07-9ebe-570e74b391d8,seventy.taxi,available,8.98,69.98,low,low,7,namecheap,,,
-eca08971-f7d1-477b-bbb2-fc6de4b3edc9,based.taxi,available,10.99,,high,medium,5,name.com,,,
+eca08971-f7d1-477b-bbb2-fc6de4b3edc9,based.taxi,available,10.99,84.99,medium,low,5,name.com,,,22/09/2026 17:49
 ba7edc5f-0da2-4a8e-8010-c6bef6a7b19f,sanctioned.taxi,available,8.98,69.98,low,low,10,namecheap,,,06/08/2026 09:24
 f3296a85-1b2f-4343-be52-e6450e41ee9c,andrew.taxi,available,10.99,,high,medium,6,name.com,,,
 cd363d72-bb4b-4d93-bd99-7cf5f569e7bc,cut.taxi,available,10.99,84.99,high,low,3,name.com,,,
-3d5e9256-cef5-4549-9af7-04bbe30e273b,thousand.taxi,available,10.99,84.99,high,low,8,name.com,,,
+3d5e9256-cef5-4549-9af7-04bbe30e273b,thousand.taxi,available,10.99,62.99,medium,low,8,namesilo,,,21/09/2026 11:02
 e6b510ab-d98e-4b37-990f-834041f6f0a1,rice.taxi,available,10.99,,high,low,4,name.com,,,
 f6db8752-cc19-440c-95f5-e12b01ec407e,flags.taxi,available,10.99,,medium,low,5,name.com,,,
 c74fa758-bab8-4f42-a797-f4d849f79095,bce.taxi,available,10.99,,medium,low,3,name.com,,,
@@ -821,12 +820,12 @@ b5e69d0a-3507-4d70-a572-3004e6e35a5a,redhot.taxi,available,10.99,,high,low,7,nam
 b6a290a1-5891-4c49-b72a-09337dd47dc4,knowsomeone.taxi,available,10.99,,medium,low,12,name.com,,,
 3a19b28b-4acc-4d4a-b357-c5b9c377e989,hermitical.taxi,available,8.98,69.98,low,low,10,namecheap,,,
 8b6afdcb-5a2b-437c-9714-040f570ccbb2,median.taxi,available,10.99,,high,low,6,name.com,,,
-a69ee6a4-5b60-4a4f-ae86-35f2603702fb,animate.taxi,available,10.99,,high,low,7,name.com,,,
+a69ee6a4-5b60-4a4f-ae86-35f2603702fb,animate.taxi,available,10.99,62.99,medium,low,7,namesilo,,,22/09/2026 04:47
 d6d09186-2f98-4998-9bbb-58639236fbed,goodfortune.taxi,available,10.99,,high,low,12,name.com,,,
 26017d8b-0357-4374-baed-0aca66186e34,fingers.taxi,available,10.99,,medium,low,7,name.com,,,
 7fb53d50-3a58-4d55-b171-4375ced15746,agrarian.taxi,available,8.98,69.98,low,low,8,namecheap,,,
 50169bb2-b2ef-4860-bf86-4d872419009c,piston.taxi,available,10.99,,medium,low,6,name.com,,,
-c0d3c98c-86cd-4588-9a4c-dcc0524f5c7c,eleven.taxi,available,10.99,84.99,high,low,6,name.com,,,
+c0d3c98c-86cd-4588-9a4c-dcc0524f5c7c,eleven.taxi,available,10.99,62.99,medium,low,6,namesilo,,,21/09/2026 11:20
 a7a04a38-494a-44c3-8344-36da679fd813,loco.taxi,available,8.98,69.98,medium,low,4,namecheap,,,06/08/2026 21:13
 7e7052c8-4e49-4f80-a2b1-6480ed90fad5,january.taxi,available,10.99,,high,low,7,name.com,,,
 40468475-2fdc-4398-a46f-688d88815868,sextuplet.taxi,available,8.98,69.98,low,low,9,namecheap,,,
@@ -856,7 +855,7 @@ c0fe4ad2-69c7-4afb-8596-ddbf25d78d6f,speedup.taxi,available,10.99,,medium,low,8,
 ffb83f95-c933-4ba3-b4d0-62474023902d,bunch.taxi,available,10.99,,medium,low,5,name.com,,,
 1a86d9e8-4100-49cf-bbe3-5236e554973f,byfar.taxi,available,10.99,,medium,low,6,name.com,,,
 e39fbc6b-ed8d-47a3-a08d-8e6ba0c56f6f,diversify.taxi,available,10.99,,high,low,9,name.com,,,
-3444ee3f-ac26-40f8-b45a-15f661014fd3,annual.taxi,available,10.99,,high,low,6,name.com,,,
+3444ee3f-ac26-40f8-b45a-15f661014fd3,annual.taxi,available,10.99,62.99,medium,low,6,namesilo,,,22/09/2026 05:27
 2e3062e5-be6c-432d-99b8-27159e72d672,economic.taxi,available,10.99,84.99,high,low,8,name.com,,,
 76d89224-4eae-4269-b802-c0bcd5ec56b0,diploma.taxi,available,10.99,,high,low,7,name.com,,,
 26662267-b52a-4d46-8df8-94017d0f99d5,clothingbin.taxi,available,10.99,,medium,low,12,name.com,,,
@@ -864,14 +863,14 @@ e39fbc6b-ed8d-47a3-a08d-8e6ba0c56f6f,diversify.taxi,available,10.99,,high,low,9,
 bd6d4028-bf52-47c3-bfb3-3277ccee452a,waitfor.taxi,available,10.99,,medium,low,8,name.com,,,
 62b3d649-b504-4bfd-b4eb-6ec62698013f,avestan.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 23:07
 3ace732e-fea5-46bc-8fbb-85f3e22f5c78,arced.taxi,available,8.98,69.98,low,low,5,namecheap,,,06/08/2026 14:28
-8410848b-6c3b-4b27-9516-fee7b48a5648,biological.taxi,available,10.99,,high,low,10,name.com,,,
+8410848b-6c3b-4b27-9516-fee7b48a5648,biological.taxi,available,10.99,84.99,medium,low,10,name.com,,,22/09/2026 20:55
 725d616f-45fc-4462-a096-800a161a8e76,political.taxi,available,10.99,,high,low,9,name.com,,,
 4b884317-ea12-47dc-ac65-15290032d18e,lookunderrocks.taxi,available,10.99,,medium,low,16,name.com,,,
 4b192ea4-7b4a-45e1-bd9f-b38dd5124728,addition.taxi,available,10.99,,high,low,8,name.com,,,
-88cafed8-b4f7-4dde-b5bf-a3b14219a54b,asleep.taxi,available,10.99,,high,low,6,name.com,,,
+88cafed8-b4f7-4dde-b5bf-a3b14219a54b,asleep.taxi,available,10.99,62.99,medium,low,6,namesilo,,,22/09/2026 09:45
 78b8efa2-6813-454a-a354-a4f46a5e3f26,endurance.taxi,available,10.99,,high,low,9,name.com,,,
 b92ae3a4-60eb-46ce-819f-03761d358487,hook.taxi,available,10.99,,medium,low,4,name.com,,,
-6e79ae47-3145-4f45-a561-7e3fbc008344,allegro.taxi,available,10.99,84.99,high,low,7,name.com,,,
+6e79ae47-3145-4f45-a561-7e3fbc008344,allegro.taxi,available,10.99,62.99,medium,low,7,namesilo,,,22/09/2026 01:21
 b66ffbac-e9b7-407d-8faf-fadda207a77f,bloodpressure.taxi,available,10.99,,high,low,14,name.com,,,
 b48b07a2-c76a-4b7e-9779-a64f5b21d42f,useup.taxi,available,10.99,,low,low,6,name.com,,,
 b5462a7b-a620-4215-b077-d9ab98e506d2,wrestling.taxi,available,10.99,,high,low,9,name.com,,,
@@ -904,7 +903,7 @@ d877483a-20e7-4855-b7de-841d17377325,confirming.taxi,available,10.99,84.99,high,
 12f6340c-1421-45f6-989a-478e88f6fbb9,sushibar.taxi,available,10.99,,high,low,9,name.com,,,
 9afc296c-5426-4a45-950b-28006f1fa49d,consistently.taxi,available,10.99,,medium,low,12,name.com,,,
 3ca982f2-b1d2-4b66-aef3-50889b7cb853,thanksto.taxi,available,10.99,,medium,low,9,name.com,,,
-fceeee49-bcca-41ee-af6c-d66c80569fb7,xxv.taxi,available,10.99,84.99,medium,low,3,name.com,,,
+fceeee49-bcca-41ee-af6c-d66c80569fb7,xxv.taxi,available,10.99,62.99,low,low,3,namesilo,,,21/09/2026 12:45
 49db21d8-55d8-43d2-a2b3-be1700f568f6,auditive.taxi,available,8.98,69.98,low,low,8,namecheap,,,07/08/2026 16:49
 051ebad4-fc67-4b94-9889-ac6a3970a4f7,dishonesty.taxi,available,10.99,,medium,low,10,name.com,,,
 507bd3b2-ec7c-43a7-b132-4dc8de6d27d1,covering.taxi,available,10.99,,medium,low,8,name.com,,,
@@ -912,7 +911,7 @@ e35b7d36-a81a-4126-98d8-ba06c78ca49c,feet.taxi,available,10.99,,high,low,4,name.
 8e7bba15-0e2b-4da8-a0c3-9f9b665e9371,palestine.taxi,available,,,medium,low,9,,,,
 2ee605bd-6d16-432d-99ab-f20c01967d0e,informal.taxi,available,10.99,,high,low,8,name.com,,,
 ed961672-5f2e-4abe-82ce-85443efa08fb,newzealand.taxi,available,,,medium,low,11,,,,
-1e471715-a761-4431-931a-7791d26c4623,lost.taxi,available,10.99,,medium,low,4,name.com,,,
+1e471715-a761-4431-931a-7791d26c4623,lost.taxi,available,10.99,62.99,low,low,4,namesilo,,,22/09/2026 10:52
 bee50c9a-a93e-4e52-8be9-f58ace3aeb99,cabbage.taxi,available,10.99,,high,low,7,name.com,,,
 4a96a5d5-4d45-4020-8c9b-87a04b2c9708,childcare.taxi,available,10.99,,high,low,10,name.com,,,
 83ff8700-a914-425f-b299-2dd7d0ad119c,fictive.taxi,available,8.98,69.98,low,low,7,namecheap,,,07/08/2026 07:55
@@ -940,7 +939,7 @@ dd07254c-a401-4b65-87bc-1469a5952b5e,inplaceof.taxi,available,10.99,,medium,low,
 413b6a00-b16e-43f6-ae55-cd4b3308ad3e,pleasant.taxi,available,10.99,,high,low,8,name.com,,,
 f3817c33-7f8d-42cd-80f3-46063de33a30,allsmiles.taxi,available,10.99,,medium,low,10,name.com,,,
 ebae8c6d-9e5e-46db-9235-91f75c6b3a8b,fallshort.taxi,available,10.99,,medium,low,10,name.com,,,
-0dce0193-23b2-4941-a6d5-2ad83c5ff341,bound.taxi,available,10.99,,medium,low,5,name.com,,,
+0dce0193-23b2-4941-a6d5-2ad83c5ff341,bound.taxi,available,10.99,62.99,low,low,5,namesilo,,,22/09/2026 07:27
 6975368f-f0f1-4232-84a7-70ac5cafcdfc,stockmarket.taxi,available,10.99,,high,low,12,name.com,,,
 696e66c8-71ae-4e3e-906b-5f0220ded940,beadyeyed.taxi,available,8.98,69.98,low,low,10,namecheap,,,09/08/2026 03:44
 0b2d9c03-7377-4d9f-a493-b92ac3b3cdec,madison.taxi,premium,118.8,118.8,medium,low,7,namesilo,,,08/09/2026 13:09
@@ -960,7 +959,7 @@ f1cae433-8cdb-46c5-9f08-82bce3cb4421,bareassed.taxi,available,8.98,69.98,low,low
 761af18f-b08a-4178-9154-2a7cc1d9fb51,auric.taxi,available,8.98,69.98,low,low,5,namecheap,,,07/08/2026 17:36
 7cc7ebf0-b605-4363-875d-7187796afda7,various.taxi,available,10.99,,high,low,7,name.com,,,
 20d49bd2-754e-4cd2-a25c-d1700d397929,antidotal.taxi,available,8.98,69.98,low,low,9,namecheap,,,
-3dc534b9-affd-4ddf-ade6-4b03f0cefc55,aboveall.taxi,available,8.98,69.98,low,low,9,namecheap,,,13/09/2026 16:35
+3dc534b9-affd-4ddf-ade6-4b03f0cefc55,aboveall.taxi,available,8.98,69.98,medium,low,9,namecheap,,,13/09/2026 16:35
 8782e0bd-852b-4656-8145-5a4a7d02b957,havetime.taxi,available,10.99,,high,low,9,name.com,,,
 5799fa79-e7b8-4e44-8dc4-aef950b330f9,pernicious.taxi,available,8.98,69.98,low,low,10,namecheap,,,08/08/2026 12:01
 b2f85ddb-7e41-4598-bb54-e215bdd0e9c5,terror.taxi,available,10.99,,medium,low,6,name.com,,,
@@ -999,3 +998,4 @@ f8d9657d-e266-4daa-bbce-e572c11a121b,pressofficer.taxi,available,10.99,,high,low
 86066d34-e8f8-4774-a0c2-216b3bc6f74f,dissonant.taxi,available,8.98,69.98,low,low,9,namecheap,,,07/08/2026 12:26
 304009bb-14e9-454e-819d-175a85102bd2,abysmal.taxi,available,8.98,69.98,low,low,7,namecheap,,,
 01b745c2-8d37-457d-a096-26a05fbdd500,adpressed.taxi,available,8.98,69.98,low,low,9,namecheap,,,
+071d3daf-069f-406c-8458-022aa0180667,springshower.taxi,available,10.99,,low,low,13,name.com,,,
