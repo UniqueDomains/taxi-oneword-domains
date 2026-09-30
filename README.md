@@ -1,10 +1,10 @@
-# Available .TAXI One-Word Domains (26,085)
+# Available .TAXI One-Word Domains (28,375)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C085%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C375%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .taxi one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,085 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,375 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,085 domains · **Median ask:** $11.14 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 28,375 domains · **Median ask:** $11.50 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/taxi`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| see.taxi         | available | $10.99    | $62.99        | high           | medium | 3      | namesilo                                                  |
-| trusted.taxi     | available | $8.98     | $69.98        | high           | medium | 7      | namecheap                                                 |
-| lab.taxi         | available | $10.99    | $62.99        | high           | medium | 3      | namesilo                                                  |
-| engineering.taxi | available | $6.10     | $51.58        | high           | low    | 11     | dynadot                                                   |
-| transfer.taxi    | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.                                           |
-| health.taxi      | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 36                                         |
-| creation.taxi    | available | $48.20    | $48.20        | high           | low    | 8      | cloudflare                                                |
-| expand.taxi      | available | $10.99    | $62.99        | high           | low    | 6      | namesilo                                                  |
-| adh.taxi         | available | $10.99    | $62.99        | high           | low    | 3      | namesilo                                                  |
-| any.taxi         | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 28                                         |
-| cairo.taxi       | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship                                                 |
-| bai.taxi         | available | $8.98     | $69.98        | high           | low    | 3      | namecheap                                                 |
-| live.taxi        | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| darwin.taxi      | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| boo.taxi         | available | $10.50    | —             | medium         | low    | 3      | unstoppable                                               |
-| dream.taxi       | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 21                                         |
-| bow.taxi         | available | $8.98     | $69.98        | high           | low    | 3      | namecheap                                                 |
-| orbit.taxi       | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
-| ceo.taxi         | available | $10.99    | $62.99        | high           | low    | 3      | namesilo                                                  |
-| cnn.taxi         | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| adh.taxi       | available | $10.99    | $62.99        | high           | low    | 3      | namesilo                                                  |
+| people.taxi    | resell    | $10.99    | —             | high           | medium | 6      | name.com                                                  |
+| cairo.taxi     | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship                                                 |
+| bai.taxi       | available | $8.98     | $69.98        | high           | low    | 3      | namecheap                                                 |
+| any.taxi       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 28                                         |
+| darwin.taxi    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
+| bow.taxi       | available | $8.98     | $69.98        | high           | low    | 3      | namecheap                                                 |
+| live.taxi      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ceo.taxi       | available | $10.99    | $62.99        | high           | low    | 3      | namesilo                                                  |
+| dream.taxi     | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 21                                         |
+| cnn.taxi       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| orbit.taxi     | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| cta.taxi       | available | $7.96     | $49.88        | high           | low    | 3      | spaceship                                                 |
+| health.taxi    | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 36                                         |
+| did.taxi       | available | $10.99    | —             | high           | low    | 3      | name.com                                                  |
+| transfer.taxi  | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.                                           |
+| dix.taxi       | available | $10.99    | $62.99        | high           | low    | 3      | namesilo                                                  |
+| transport.taxi | resell    | —         | —             | high           | low    | 9      | —                                                         |
+| era.taxi       | available | $8.98     | $69.98        | high           | medium | 3      | namecheap                                                 |
+| fim.taxi       | available | $6.18     | $49.95        | medium         | low    | 3      | porkbun                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,085 live domains                        |
+| 1,000-row public sample | 28,375 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TAXI One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
